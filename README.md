@@ -19,6 +19,9 @@ $ cd Upwork-Scraper
 
 ## Usage
 
+### Before running the project, make sure to generate an api key from GroqCloud and replace it in the code
+
+
 ### To run the project, use the following command:
 ```bash
 $ python Upwork_scraper.py
